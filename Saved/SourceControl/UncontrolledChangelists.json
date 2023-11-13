@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/BP_NPC.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/BT_NPC.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/AI_NPC.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/BB_NPC.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/BTTask_ClearBlackboardValue.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/58/89APTH9XLTI4MOADT8YS3U.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0V/K1NIGLJEMKJ02RYYUJY1YC.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/99/RTXZQ3NUHYAGG9P61EYVVA.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/AI/BTDecorator_CheckScale.uasset",
+				"D:/Epic Games/UE5_Projects/UE_GAME/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+			]
+		}
+	]
+}
