@@ -1,0 +1,290 @@
+[+] Containers:
+ |- [+] Container: /Game/Main
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0669F61C47629B37B7629A878A18C067 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000e3b66e06 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=-19200.000 Z=0.000), Max=(X=19200.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:07D852E44767EDC37E0F649A3BBE0F75 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000005024b9f3 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=6400.000 Z=0.000), Max=(X=19200.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:0A7D823D48B32CAC8ABDAF81C7D8CFB8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_E0D55EE5416D54BC01_1824348476 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1810.000 Y=530.000 Z=760.000), Max=(X=1810.000 Y=530.000 Z=760.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0FBD44024F869929E6CBD79D1ABC4A9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D54BC01_1911263477 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.000 Y=-1500.000 Z=100.000), Max=(X=1000.000 Y=1100.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:17126430461A5EE328D9248194B22ADB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D54BC01_2030665478 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.000 Y=-1500.000 Z=200.000), Max=(X=1000.000 Y=1100.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:225EC1064A8277B915F4DAA3CEC645B3 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975580674 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-15434.000 Z=-15534.000), Max=(X=15014.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:231CF01A4CC726ECC144B890DCD2C179 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000007e137cb2 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=-19200.000 Z=0.000), Max=(X=-6400.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:324366984D0CD712FBA03F859B84A54C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271511663 Label:PointLight9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-16534.000 Z=-15954.000), Max=(X=15004.000 Y=16234.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:3460931A4F5766FF3DFA259E0CA7AFAE BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_0000000010aa09d7 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=-6400.000 Z=0.000), Max=(X=-6400.000 Y=6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:34F526F444ACB091A1CC95A0FB28DFF7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000035648ca Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=-6400.000 Z=0.000), Max=(X=19200.000 Y=6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:35E3DB3441526A7A7FBC3C9F221061DB BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000116ab535 Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X1_Y0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=12800.000 Y=-12800.000 Z=0.000), Max=(X=38400.000 Y=12800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- Guid:46399B22447C751FEF00898AFC055390 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1259765659 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16684.000 Y=-15444.000 Z=-15954.000), Max=(X=16084.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:47FCB958404FF9689AB83AB72AF5B124 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1215490656 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-15444.000 Z=-15954.000), Max=(X=17224.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:4C767BCC445EE18959FBF49A55B6FD98 BaseClass: NativeClass:/Script/Engine.SpatialHashRuntimeGridInfo Name:SpatialHashRuntimeGridInfo_UAID_D493901499A559BC01_1263907351 Label:HLOD0_256m_767m SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:0 IsMainWorldOnly:0
+ |   |   |- Guid:51214F6843964D8DD9DBBBBFDDA8F512 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271508661 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-17734.000 Z=-15954.000), Max=(X=15004.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:54ACD4524B781608CFA9B48601439E20 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1259763658 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16684.000 Y=-17734.000 Z=-15954.000), Max=(X=16084.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:61878C4D46D464D820FA2393BD70A715 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000dc4a51d9 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=6400.000 Z=0.000), Max=(X=6400.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:66CBF1744555FE5585A26AAE1B75B3F7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000007413ada1 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=-6400.000 Z=0.000), Max=(X=6400.000 Y=6400.000 Z=1400.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:6C8028F94B34AA590434708797AEC797 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975576670 Label:PointLight11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-16524.000 Z=-15534.000), Max=(X=17234.000 Y=16244.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:6C96B5F84EAF461CAD2935B6B5671BAF BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975575669 Label:PointLight10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-15434.000 Z=-15534.000), Max=(X=17234.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:72D82A444398369B3508D98FB7D1715B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975578672 Label:PointLight13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16674.000 Y=-15434.000 Z=-15534.000), Max=(X=16094.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:799EB86848544BAA7DB904A7DC0D2FC1 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000a1f7e14a Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X0_Y1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12800.000 Y=12800.000 Z=0.000), Max=(X=12800.000 Y=38400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- Guid:846C1D994B2F569AFF2407BF39860C78 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000c91d7cd9 Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X1_Y1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=12800.000 Y=12800.000 Z=0.000), Max=(X=38400.000 Y=38400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- Guid:8C88ABD54655C3252C17FF897C8AB07F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D54BC01_2137851479 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-17734.000 Z=-15954.000), Max=(X=17224.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:8E35E48441A5BC1C382FE996715D63F5 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1231123657 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-16534.000 Z=-15954.000), Max=(X=17224.000 Y=16234.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:9B321E384FF5CF9F467E409D050C80E0 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:A08F2301476C99B36FAA1C9FE60A99B1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975579673 Label:PointLight14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-17724.000 Z=-15534.000), Max=(X=15014.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:AE13AEFD40BF25987B98C79F5E231042 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_E0D55EE5416D54BC01_1645654474 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=100.000), Max=(X=-25200.000 Y=-25200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B11D76F346800713DD781E98E16CED8A BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975582675 Label:PointLight16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-16524.000 Z=-15534.000), Max=(X=15014.000 Y=16244.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:B6F6B9D94D6501E6C5E3FDBDB1BDB421 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000000036e0ef Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=6400.000 Z=0.000), Max=(X=-6400.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:B79538C6489047D4B87E4EA3E3265A36 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000005d8a768b Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=-19200.000 Z=0.000), Max=(X=6400.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- Guid:B994F90D4B7AF6C125DC8696FCD6A8E5 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975577671 Label:PointLight12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16674.000 Y=-17724.000 Z=-15534.000), Max=(X=16094.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:C7AD912645CA8BDA1A650B9483A15162 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271510662 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-15444.000 Z=-15954.000), Max=(X=15004.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- Guid:D15010D74694F5F6D4B527BE7056A89F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D56BC01_1165104860 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1400.000 Z=600.000), Max=(X=900.000 Y=1000.000 Z=1000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D7E1B7BC4ECAE3C5570531AE4AEFBC3B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975573668 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-17724.000 Z=-15534.000), Max=(X=17234.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- Guid:F6E5C83746FDB743A8A45E8A7C0AAD25 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_000000001e542f4b Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X0_Y0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12800.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0669F61C47629B37B7629A878A18C067 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000e3b66e06 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=-19200.000 Z=0.000), Max=(X=19200.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:07D852E44767EDC37E0F649A3BBE0F75 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000005024b9f3 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=6400.000 Z=0.000), Max=(X=19200.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:0A7D823D48B32CAC8ABDAF81C7D8CFB8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_E0D55EE5416D54BC01_1824348476 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1810.000 Y=530.000 Z=760.000), Max=(X=1810.000 Y=530.000 Z=760.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0FBD44024F869929E6CBD79D1ABC4A9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D54BC01_1911263477 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.000 Y=-1500.000 Z=100.000), Max=(X=1000.000 Y=1100.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:17126430461A5EE328D9248194B22ADB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D54BC01_2030665478 Label:CubeGridToolOutput2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1600.000 Y=-1500.000 Z=200.000), Max=(X=1000.000 Y=1100.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:225EC1064A8277B915F4DAA3CEC645B3 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975580674 Label:PointLight15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-15434.000 Z=-15534.000), Max=(X=15014.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:231CF01A4CC726ECC144B890DCD2C179 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000007e137cb2 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=-19200.000 Z=0.000), Max=(X=-6400.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:324366984D0CD712FBA03F859B84A54C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271511663 Label:PointLight9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-16534.000 Z=-15954.000), Max=(X=15004.000 Y=16234.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:3460931A4F5766FF3DFA259E0CA7AFAE BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_0000000010aa09d7 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=-6400.000 Z=0.000), Max=(X=-6400.000 Y=6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:34F526F444ACB091A1CC95A0FB28DFF7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000035648ca Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X1_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6400.000 Y=-6400.000 Z=0.000), Max=(X=19200.000 Y=6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:35E3DB3441526A7A7FBC3C9F221061DB BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000116ab535 Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X1_Y0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=12800.000 Y=-12800.000 Z=0.000), Max=(X=38400.000 Y=12800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:46399B22447C751FEF00898AFC055390 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1259765659 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16684.000 Y=-15444.000 Z=-15954.000), Max=(X=16084.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:47FCB958404FF9689AB83AB72AF5B124 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1215490656 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-15444.000 Z=-15954.000), Max=(X=17224.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:4C767BCC445EE18959FBF49A55B6FD98 BaseClass: NativeClass:/Script/Engine.SpatialHashRuntimeGridInfo Name:SpatialHashRuntimeGridInfo_UAID_D493901499A559BC01_1263907351 Label:HLOD0_256m_767m SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:0 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:51214F6843964D8DD9DBBBBFDDA8F512 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271508661 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-17734.000 Z=-15954.000), Max=(X=15004.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:54ACD4524B781608CFA9B48601439E20 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1259763658 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16684.000 Y=-17734.000 Z=-15954.000), Max=(X=16084.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:61878C4D46D464D820FA2393BD70A715 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_00000000dc4a51d9 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=6400.000 Z=0.000), Max=(X=6400.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:66CBF1744555FE5585A26AAE1B75B3F7 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000007413ada1 Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=-6400.000 Z=0.000), Max=(X=6400.000 Y=6400.000 Z=1400.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:6C8028F94B34AA590434708797AEC797 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975576670 Label:PointLight11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-16524.000 Z=-15534.000), Max=(X=17234.000 Y=16244.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:6C96B5F84EAF461CAD2935B6B5671BAF BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975575669 Label:PointLight10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-15434.000 Z=-15534.000), Max=(X=17234.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:72D82A444398369B3508D98FB7D1715B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975578672 Label:PointLight13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16674.000 Y=-15434.000 Z=-15534.000), Max=(X=16094.000 Y=17334.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:799EB86848544BAA7DB904A7DC0D2FC1 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000a1f7e14a Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X0_Y1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12800.000 Y=12800.000 Z=0.000), Max=(X=12800.000 Y=38400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:846C1D994B2F569AFF2407BF39860C78 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_00000000c91d7cd9 Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X1_Y1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=12800.000 Y=12800.000 Z=0.000), Max=(X=38400.000 Y=38400.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:8C88ABD54655C3252C17FF897C8AB07F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D54BC01_2137851479 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-17734.000 Z=-15954.000), Max=(X=17224.000 Y=15034.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:8E35E48441A5BC1C382FE996715D63F5 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1231123657 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15544.000 Y=-16534.000 Z=-15954.000), Max=(X=17224.000 Y=16234.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:9B321E384FF5CF9F467E409D050C80E0 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:A08F2301476C99B36FAA1C9FE60A99B1 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975579673 Label:PointLight14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-17724.000 Z=-15534.000), Max=(X=15014.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:AE13AEFD40BF25987B98C79F5E231042 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_E0D55EE5416D54BC01_1645654474 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=100.000), Max=(X=-25200.000 Y=-25200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:B11D76F346800713DD781E98E16CED8A BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975582675 Label:PointLight16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17754.000 Y=-16524.000 Z=-15534.000), Max=(X=15014.000 Y=16244.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:B6F6B9D94D6501E6C5E3FDBDB1BDB421 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000000036e0ef Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X-1_Y1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19200.000 Y=6400.000 Z=0.000), Max=(X=-6400.000 Y=19200.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:B79538C6489047D4B87E4EA3E3265A36 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Instanced_000000005d8a768b Label:Main_HLODLayer_Instanced/Main_MainGrid_L0_X0_Y-1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6400.000 Y=-19200.000 Z=0.000), Max=(X=6400.000 Y=-6400.000 Z=200.000) RuntimeGrid:HLOD0_256m_767m EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 HLODLayer:/Game/Main_HLODLayer_Merged.Main_HLODLayer_Merged FolderPath:HLOD/Main_HLODLayer_Instanced FolderGuid:ABC20C424A62F9F8C39EFBA8A8CA6013
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:B994F90D4B7AF6C125DC8696FCD6A8E5 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975577671 Label:PointLight12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-16674.000 Y=-17724.000 Z=-15534.000), Max=(X=16094.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:C7AD912645CA8BDA1A650B9483A15162 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1271510662 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17764.000 Y=-15444.000 Z=-15954.000), Max=(X=15004.000 Y=17324.000 Z=16814.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor FolderGuid:FCE351F54BFB198C0DD38BB18AEF77EF
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:D15010D74694F5F6D4B527BE7056A89F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E0D55EE5416D56BC01_1165104860 Label:CubeGridToolOutput3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1500.000 Y=-1400.000 Z=600.000), Max=(X=900.000 Y=1000.000 Z=1000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:D7E1B7BC4ECAE3C5570531AE4AEFBC3B BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_E0D55EE5416D55BC01_1975573668 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15534.000 Y=-17724.000 Z=-15534.000), Max=(X=17234.000 Y=15044.000 Z=17234.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lightnings/1floor1 FolderGuid:920A4818404AC3506EFDD8AA36675D0A
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:F6E5C83746FDB743A8A45E8A7C0AAD25 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Main_HLODLayer_Merged_000000001e542f4b Label:Main_HLODLayer_Merged/Main_HLOD0_256m_767m_L0_X0_Y0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12800.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=1400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Main_HLODLayer_Merged FolderGuid:482265E44602D2C82AE614BFEB36C2E5
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-19200.000 Y=-19200.000 Z=-15954.000), Max=(X=19200.000 Y=19200.000 Z=17234.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Main
+----------------------------------------------------------------------------------------------------------------
+Main - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Main Persistent Level
+ |- Always loaded Actor Count: 40 
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Main
+ |- Actor Path: /Game/Main.Main:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Main
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Landscape_UAID_E0D55EE5416D54BC01_1645654474
+ |- Actor Package: /Game/__ExternalActors__/Main/5/XU/VM7IIG7CPDDA9X9WUQYTU1
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000000036e0ef
+ |- Actor Package: /Game/__ExternalActors__/Main/8/DX/YYIO5OHYY015L96O6JNWNX
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000035648ca
+ |- Actor Package: /Game/__ExternalActors__/Main/3/OP/R6H2YGI86KWWKK3WYW4L1S
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_0000000010aa09d7
+ |- Actor Package: /Game/__ExternalActors__/Main/7/6T/SBCBVKKE032A0S8N421ES1
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000005024b9f3
+ |- Actor Package: /Game/__ExternalActors__/Main/2/93/792T6OZONOEDJMYB5FKVEV
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000005d8a768b
+ |- Actor Package: /Game/__ExternalActors__/Main/4/MJ/K70RT3TB9C6KPP5PQY4462
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000007413ada1
+ |- Actor Package: /Game/__ExternalActors__/Main/8/Z6/JR72I9440P9MBBTGICKNR6
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000007e137cb2
+ |- Actor Package: /Game/__ExternalActors__/Main/2/U7/PA28S8JAAIE2Z2WUG6AZ19
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000dc4a51d9
+ |- Actor Package: /Game/__ExternalActors__/Main/9/80/LL9HHPPL2JC1EZWO3HTTIX
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000e3b66e06
+ |- Actor Package: /Game/__ExternalActors__/Main/4/79/X79TDKPKPP9JGZ2ZF4MUDA
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Merged_00000000116ab535
+ |- Actor Package: /Game/__ExternalActors__/Main/5/T1/DKVSDXYEAUDCLYOJL5KGDN
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Merged_000000001e542f4b
+ |- Actor Package: /Game/__ExternalActors__/Main/E/LL/4F7T3JA4U5BCFWJNZ5VTL8
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Merged_00000000a1f7e14a
+ |- Actor Package: /Game/__ExternalActors__/Main/A/DB/18OFRSO1KZTCFN7XWET8XZ
+ |- Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Merged_00000000c91d7cd9
+ |- Actor Package: /Game/__ExternalActors__/Main/3/KL/BGE8KPPNZYIX0YZFC3VI05
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D54BC01_2137851479
+ |- Actor Package: /Game/__ExternalActors__/Main/6/ZU/CCE66P3FOUKK6G2NZZESJ9
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1215490656
+ |- Actor Package: /Game/__ExternalActors__/Main/2/RB/DR7JERZRE4XK2T8OLCN03E
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1231123657
+ |- Actor Package: /Game/__ExternalActors__/Main/1/6C/RLZI9BI4JE1SRWHT8APHVH
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1259763658
+ |- Actor Package: /Game/__ExternalActors__/Main/A/F7/CDRLFFL4M32PSOAVH279DG
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1259765659
+ |- Actor Package: /Game/__ExternalActors__/Main/1/Z0/0653UQQFLG9HEA0PDIIB5H
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1271508661
+ |- Actor Package: /Game/__ExternalActors__/Main/E/GJ/WECU65I9H59XWWP0WQPV5V
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1271510662
+ |- Actor Package: /Game/__ExternalActors__/Main/0/O4/4MN66HZC7H2Y8DZU3R5TH1
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1271511663
+ |- Actor Package: /Game/__ExternalActors__/Main/E/43/62CQWQD78G9VYU4T6V895U
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975573668
+ |- Actor Package: /Game/__ExternalActors__/Main/B/GE/O1QIK4IQZXKM45CPC0WI7H
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975575669
+ |- Actor Package: /Game/__ExternalActors__/Main/6/TI/TF3Z1BEVRBPQG4Y0COE1NU
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975576670
+ |- Actor Package: /Game/__ExternalActors__/Main/6/8O/7PMOIC71GVORC2372EY9G2
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975577671
+ |- Actor Package: /Game/__ExternalActors__/Main/B/PD/7FE79BAWNCGHRJY0ZHNJBU
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975578672
+ |- Actor Package: /Game/__ExternalActors__/Main/3/Q5/ZZBDZ65AZUVR44RQD96N56
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975579673
+ |- Actor Package: /Game/__ExternalActors__/Main/3/VA/4R99F11Z2YW2RCR3WO1Z8R
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975580674
+ |- Actor Package: /Game/__ExternalActors__/Main/1/EP/WNSLFYA95RCIYUSBMSNE4E
+ |- Actor Path: /Game/Main.Main:PersistentLevel.PointLight_UAID_E0D55EE5416D55BC01_1975582675
+ |- Actor Package: /Game/__ExternalActors__/Main/5/MG/40JVB9FJR0DV9TMZAK7ATA
+ |- Actor Path: /Game/Main.Main:PersistentLevel.SkyAtmosphere_UAID_E0D55EE5416D54BC01_1824348476
+ |- Actor Package: /Game/__ExternalActors__/Main/3/QC/NBNFGML5MTO5T508FQTU6O
+ |- Actor Path: /Game/Main.Main:PersistentLevel.SpatialHashRuntimeGridInfo_UAID_D493901499A559BC01_1263907351
+ |- Actor Package: /Game/__ExternalActors__/Main/6/LM/QTJ603EOLVDG9PZ56B9WSC
+ |- Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D54BC01_1911263477
+ |- Actor Package: /Game/__ExternalActors__/Main/A/X4/B5LBLS8WKKLF5ZJH1DA5PV
+ |- Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D54BC01_2030665478
+ |- Actor Package: /Game/__ExternalActors__/Main/B/PU/QMSEK3LXM0I1ISEHUTHVDV
+ |- Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D56BC01_1165104860
+ |- Actor Package: /Game/__ExternalActors__/Main/8/15/PXGLZ26ZL5O9OKN7IW4LMY
+ |- Actor Path: /Game/Main.Main:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Main/C/VW/5A4W54QMLE2S2AYLNV13HT
+ |- Actor Path: /Game/Main.Main:PersistentLevel.WorldPartitionMiniMap_UAID_E0D55EE5416D54BC01_1340337471
+ |- Actor Package: /Game/__ExternalActors__/Main/2/CA/L90JHCKGFOBPISN7LPOML3
+ |- Actor Path: /Game/Main.Main:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Main
+
+----------------------------------------------------------------------------------------------------------------
+Main - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-19200.000 Y=-19200.000 Z=-15954.000), Max=(X=19200.000 Y=19200.000 Z=17234.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    3 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Main_MainGrid_L0_X0_Y0 (18BI1SXMYPO5VF2TNSCB290UP)
+ |   |- Actor Count: 3
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D54BC01_1911263477
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/A/X4/B5LBLS8WKKLF5ZJH1DA5PV
+ |   |- Actor Instance Guid: 0FBD44024F869929E6CBD79D1ABC4A9B
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D54BC01_2030665478
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/B/PU/QMSEK3LXM0I1ISEHUTHVDV
+ |   |- Actor Instance Guid: 17126430461A5EE328D9248194B22ADB
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.StaticMeshActor_UAID_E0D55EE5416D56BC01_1165104860
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/8/15/PXGLZ26ZL5O9OKN7IW4LMY
+ |   |- Actor Instance Guid: D15010D74694F5F6D4B527BE7056A89F
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+
+----------------------------------------------------------------------------------------------------------------
+Main - Runtime Spatial Hash - Streaming Grid - HLOD0_256m_767m
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-19200.000 Y=-19200.000 Z=-15954.000), Max=(X=19200.000 Y=19200.000 Z=17234.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: Yes
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+    HLOD Layer: Main_HLODLayer_Instanced
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    4 | Cell Size   25600 | Actor Count    9 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Main_HLOD0_256m_767m_L0_X0_Y0 (3H09P72BW1UT2E9WOCMZKKMKR)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000007e137cb2
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/2/U7/PA28S8JAAIE2Z2WUG6AZ19
+ |   |- Actor Instance Guid: 231CF01A4CC726ECC144B890DCD2C179
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_0000000010aa09d7
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/7/6T/SBCBVKKE032A0S8N421ES1
+ |   |- Actor Instance Guid: 3460931A4F5766FF3DFA259E0CA7AFAE
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000007413ada1
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/8/Z6/JR72I9440P9MBBTGICKNR6
+ |   |- Actor Instance Guid: 66CBF1744555FE5585A26AAE1B75B3F7
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000005d8a768b
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/4/MJ/K70RT3TB9C6KPP5PQY4462
+ |   |- Actor Instance Guid: B79538C6489047D4B87E4EA3E3265A36
+ |- [+] Content of Cell Main_HLOD0_256m_767m_L0_X1_Y0 (5ZGSFRIZDDPB6604D90W75C0R)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000e3b66e06
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/4/79/X79TDKPKPP9JGZ2ZF4MUDA
+ |   |- Actor Instance Guid: 0669F61C47629B37B7629A878A18C067
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000035648ca
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/3/OP/R6H2YGI86KWWKK3WYW4L1S
+ |   |- Actor Instance Guid: 34F526F444ACB091A1CC95A0FB28DFF7
+ |- [+] Content of Cell Main_HLOD0_256m_767m_L0_X1_Y1 (6Q30AZUK6GVGUUWMZW3XZE8JP)
+ |   |- Actor Count: 1
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000005024b9f3
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/2/93/792T6OZONOEDJMYB5FKVEV
+ |   |- Actor Instance Guid: 07D852E44767EDC37E0F649A3BBE0F75
+ |- [+] Content of Cell Main_HLOD0_256m_767m_L0_X0_Y1 (8PS25FSKG73IZO9KU1UHAO6II)
+ |   |- Actor Count: 2
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_00000000dc4a51d9
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/9/80/LL9HHPPL2JC1EZWO3HTTIX
+ |   |- Actor Instance Guid: 61878C4D46D464D820FA2393BD70A715
+ |   |-          Actor Path: /Game/Main.Main:PersistentLevel.Main_HLODLayer_Instanced_000000000036e0ef
+ |   |-       Actor Package: /Game/__ExternalActors__/Main/8/DX/YYIO5OHYY015L96O6JNWNX
+ |   |- Actor Instance Guid: B6F6B9D94D6501E6C5E3FDBDB1BDB421
+[+] Content of Grid Level 1
+
