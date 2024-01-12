@@ -1,0 +1,6 @@
+2024/01/12-15:13:24.689 3488 Creating DB D:/Games/UE5Project/UE_game/game_UE_BornToCode/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/12-15:13:24.699 3488 Reusing MANIFEST D:/Games/UE5Project/UE_game/game_UE_BornToCode/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-15:15:41.395 3488 Level-0 table #5: started
+2024/01/12-15:15:41.404 3488 Level-0 table #5: 1167 bytes OK
+2024/01/12-15:15:41.406 3488 Delete type=0 #3
+2024/01/12-15:15:41.406 3488 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
